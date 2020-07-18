@@ -1,0 +1,35 @@
+1st answer:
+Blockchain is to allow fast, secure and transparent peer-to-peer transactions. 
+It is a trusted, decentralized network that allows for the transfer of digital values such as currency and data.
+
+2nd answer 
+
+Cross border payment 
+supply chain management 
+
+3rd answer
+
+high security
+assurance for no hacking
+decentralized
+verifiable
+Censensus
+faster settlement 
+
+4th answer
+
+No third party in between
+programmablr money
+Security transparency
+consume content
+certify a supply chain and etc
+
+5th answer
+
+
+Company-specific information
+Law-enforcement related issues
+Maintaining privacy
+To explain this in simple words,
+ I can say that blockchain.info in its system keeps on chaining the address for a given wallet. 
+This discourages the ability to trace payments done to a particular wallet.
